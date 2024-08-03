@@ -13,8 +13,8 @@ const Header = () => (
       <a href="tel:+918133844233">
         <FontAwesomeIcon icon={faPhone} /> +91 8133844233
       </a>
-      <a href="https://linkedin.com/in/ringkangbty87">
-        <FontAwesomeIcon icon={faLinkedin} /> ringkangbty87
+      <a href="https://linkedin.com/in/ringkangbty">
+        <FontAwesomeIcon icon={faLinkedin} /> ringkangbty
       </a>
       <a href="https://github.com/Ringkang1">
         <FontAwesomeIcon icon={faGithub} /> Ringkang1
