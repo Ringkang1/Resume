@@ -5,7 +5,7 @@ const Skills = () => (
     <h2>Skills</h2>
     <ul>
       <li>Programming Languages: C, Python, Solidity</li>
-      <li>Web Technologies: HTML, CSS, JavaScript</li>
+      <li>Web Technologies: HTML, CSS, JavaScript, React</li>
       <li>Databases: MySQL, MongoDB</li>
       <li>Other: Linux, Shell scripting, Cybersecurity practices</li>
     </ul>
