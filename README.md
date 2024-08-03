@@ -1,7 +1,7 @@
 # Intriduction 
 Hi this is my portfolio website
 
-# Check My Resume/CV
+# Check My Resume/CV via Website
 [Resume](https://ringkang1.github.io/resume/)
 
 
