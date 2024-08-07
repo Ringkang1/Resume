@@ -9,10 +9,7 @@ const Header = () => (
     <div className="contact-info">
       <a href="mailto:ringkangbty87@gmail.com">
         <FontAwesomeIcon icon={faEnvelope} /> ringkangbty87@gmail.com
-      </a>
-      <a href="tel:+918133844233">
-        <FontAwesomeIcon icon={faPhone} /> +91 8133844233
-      </a>
+
       <a href="https://linkedin.com/in/ringkangbty">
         <FontAwesomeIcon icon={faLinkedin} /> ringkangbty
       </a>
